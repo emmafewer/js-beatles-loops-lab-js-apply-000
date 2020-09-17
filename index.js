@@ -23,7 +23,7 @@ i++;
 function iLoveTheBeatles(n) {
   var newArray2 = [];
   do {
-    arr.push('I love the Beatles!')
+    newArray2.push('I love the Beatles!')
     n++
   } while (n < 15)
 
