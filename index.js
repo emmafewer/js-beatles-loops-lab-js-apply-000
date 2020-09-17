@@ -14,7 +14,7 @@ var newArray = [];
 let i = 0;
 
 while (i<facts.length) {
-newArray=(`${facts} + !!!`);
+newArray.push(`${facts} + !!!`);
 i++;
 }
  return newArray 
