@@ -20,3 +20,7 @@ i++;
  return newArray 
 }
 
+function iLoveTheBeatles(number) {
+  var newArray2 = [];
+  
+}
